@@ -1,2 +1,2 @@
-# SalaryData
-A picture reflect the salary of my work.
+# WeightData
+A picture reflect the salary of my Weight.
